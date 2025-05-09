@@ -62144,7 +62144,7 @@ PERFORMANCE OF THIS SOFTWARE.
                             ),
                             vt(
                               H,
-                              { label: "Bahasa Teks Obrolan" },
+                              { label: "Bahasa" },
                               {
                                 default: xt(() => [
                                   vt(
